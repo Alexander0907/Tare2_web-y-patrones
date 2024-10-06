@@ -1,0 +1,20 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 3 oct 2024, 20:16:18
+    Author     : gsale
+*/
+
+.body {
+    background-color: #f8f9fa; /* Color de fondo */
+}
+.form-signin {
+    max-width: 400px; /* Ancho máximo del formulario */
+    margin: auto; /* Centrar el formulario */
+    padding: 15px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    background-color: white; /* Color de fondo del formulario */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+}
